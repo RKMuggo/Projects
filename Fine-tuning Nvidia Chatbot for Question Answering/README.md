@@ -16,8 +16,6 @@ This project involves fine-tuning a pre-trained Nvidia chatbot model to enhance 
 - [Model Evaluation and Saving](#model-evaluation-and-saving)
 - [Testing and Inference](#testing-and-inference)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Conclusion](#conclusion)
 
 ## Environment Setup and Library Imports
 
