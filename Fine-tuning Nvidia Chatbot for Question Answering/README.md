@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves fine-tuning a pre-trained Nvidia chatbot model to enhance its performance for question-answering tasks. Leveraging a dataset of Nvidia documentation question-and-answer pairs, the project demonstrates the complete process from data preprocessing to model training, evaluation, and inference.
+This project involves fine-tuning a pre-trained Nvidia chatbot model to enhance the performance for question-answering tasks. Leveraging a dataset of Nvidia documentation question-and-answer pairs, the project demonstrates the complete process from data preprocessing to model training, evaluation, and inference.
 
 ## Table of Contents
 
