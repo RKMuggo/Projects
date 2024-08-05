@@ -39,7 +39,7 @@ An analysis of global population data and poverty statistics to identify key tre
 
 If you have any questions or would like to discuss any of the projects in detail, please feel free to reach out to me.
 
-- [**Email:**](raaedkamran313@gmail.com)
+- [**Email**](raaedkamran313@gmail.com)
 - [**My LinkedIn Profile**](https://www.linkedin.com/in/raaed-muggo/)
 - [**My Portfolio Website**](https://raaed-muggo.notion.site/Raaed-Kamran-Muggo-cdc5ac6d6a114cde8019277fe68d75ad)
 
