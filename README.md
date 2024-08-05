@@ -17,19 +17,22 @@ A comprehensive project on building and implementing large language models and R
 ### 3. Email Spam Classifier
 A natural language processing (NLP) project utilizing logistic regression to classify emails as spam or ham.
 
-### 4. Fine-tuning Nvidia Chatbot for Question Answering
+### 4. Employee Retention Prediction
+This project aims to develop and evaluate machine learning models to predict employee retention.
+
+### 5. Fine-tuning Nvidia Chatbot for Question Answering
 Fine-tuning a pre-trained Nvidia chatbot to improve its performance in answering questions accurately.
 
-### 5. Housing Price Prediction and Analysis
+### 6. Housing Price Prediction and Analysis
 A predictive modeling project focused on analyzing and forecasting housing prices using various machine learning algorithms.
 
-### 6. LlamaIndex Scripts - Making LLMs
+### 7. LlamaIndex Scripts - Making LLMs
 Scripts and documentation for creating and managing large language models using the LlamaIndex framework.
 
-### 7. Movie Genre Classification
+### 8. Movie Genre Classification
 A project that involves classifying movies into genres based on their descriptions using machine learning techniques.
 
-### 8. World Population and Poverty
+### 9. World Population and Poverty
 An analysis of global population data and poverty statistics to identify key trends and insights.
 
 ## Contact
@@ -38,7 +41,7 @@ If you have any questions or would like to discuss any of the projects in detail
 
 - **Email:** raaedkamran313@gmail.com
 - [**My LinkedIn Profile**](https://www.linkedin.com/in/raaed-muggo/)
-- [**My Portfolio Website**](https://raaed-muggo-resume.notion.site/Raaed-Kamran-Muggo-660eb85930114cdfb623407d3d2e65ef)
+- [**My Portfolio Website**](https://raaed-muggo.notion.site/Raaed-Kamran-Muggo-cdc5ac6d6a114cde8019277fe68d75ad)
 
 
 Happy exploring!
